@@ -1,14 +1,4 @@
-change
-
-
-分开交路口的时刻
-
-很快就江湖救急  好久好久和 跨境
-hhkjhjbjkjnjkkjkj
-
-
-          会尽快哈 好看兰蔻l
-
+陈思宁
 
 import json
 import timeit
